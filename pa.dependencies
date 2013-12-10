@@ -1,13 +1,6 @@
 [
-    {   "remote":       "github",
-        "account":      "ParanoidAndroid",
-        "repository":   "android_kernel_grouper",
-        "target_path":  "kernel/asus/grouper",
-        "revision":     "jb43"
-    },
     {
-        "remote":       "github",
-        "account":      "ThankYouMario",
+        "remote":       "blobs",
         "repository":   "proprietary_vendor_asus_grouper",
         "target_path":  "vendor/asus/grouper",
         "revision":     "kitkat"
