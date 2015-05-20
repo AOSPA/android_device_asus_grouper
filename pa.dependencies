@@ -3,6 +3,6 @@
         "remote":       "blobs",
         "repository":   "proprietary_vendor_asus_grouper",
         "target_path":  "vendor/asus/grouper",
-        "revision":     "lollipop"
+        "revision":     "lollipop-mr1"
     }
 ]
